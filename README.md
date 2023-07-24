@@ -159,3 +159,21 @@ total = num1 + num2;
 return total;
 }
 ```
+
+---
+
+<!--table rules-->
+
+| Name | Nickname | Email |
+|------|----------|-------|
+|Jasmin| Meng     | Jasminjheorgejundante@gmail.com |
+|Bart  | Coolkid  | testBart@gmail.com|  
+
+---
+
+<!--TASKS LIST-->
+
+* [x] Task 1
+* [ ] Task 2
+* [ ] Task 3
+* [ ] Task 4
