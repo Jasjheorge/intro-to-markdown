@@ -42,3 +42,8 @@ This is an example of a *text with an asterisk*. When we don't want it to be ita
 
 ---
 
+<!--BLOCKQOUTE RULE-->
+
+> We use greater than symbol to display a block text as a quote with a background and line on the left side.
+
+> *"You don't have to be great to start, but you need to start to be great."* __Unknown Author__
