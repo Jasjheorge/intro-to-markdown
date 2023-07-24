@@ -47,3 +47,10 @@ This is an example of a *text with an asterisk*. When we don't want it to be ita
 > We use greater than symbol to display a block text as a quote with a background and line on the left side.
 
 > *"You don't have to be great to start, but you need to start to be great."* __Unknown Author__
+
+---
+
+<! LINK RULE-->
+
+**NOTE**: We would want to put the link description inside of square brackets and the link  to the resource inside of two open and close parenthesis
+[Dog photos on pexel](https://www.pexels.com/photo/medium-short-coated-white-dog-on-white-textile-2607544/)
